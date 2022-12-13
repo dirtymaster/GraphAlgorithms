@@ -14,8 +14,8 @@ Implementation of algorithms for working with graphs:
 ### Instructions
 The program is designed to run on macOS using make utilities.
 ```
-git clone git@github.com:abceff/MazeAndCave.git
-cd src
+git clone https://github.com/abceff/GraphAlgorithms.git
+cd GraphAlgorithms/src
 make demo  # console interface for working with algorithms
 make test  # running tests
 ```
@@ -34,8 +34,8 @@ make test  # running tests
 ### Команды
 Программа предназначена для выполнения на macOS с помощью утилит make.
 ```
-git clone git@github.com:abceff/GraphAlgorithms.git
-cd src
+git clone https://github.com/abceff/GraphAlgorithms.git
+cd GraphAlgorithms/src
 make demo  # консольный интерфейс для работы с алгоритмами
 make test  # запуск тестов
 ```
